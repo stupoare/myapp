@@ -1,5 +1,5 @@
 # LEARN GIT CLI
-##### Better late than never
+> Better late than never
 
 
 ## What I have done (and learned) :
@@ -13,8 +13,8 @@
    `$ touch style.css`  
 
 5. __`$ git init`__ - Create .git config directory
-6. __`$ git --global user.name 'Sorin Paun'`__ - config name
-7. __`$ git --global user.email 'stupoare@gmail.com'`__ - config email
+6. __`$ git --global user.name 'Your Name'`__ - Config name
+7. __`$ git --global user.email 'username@domain.com'`__ - Config email
 
 8. __Must-know commands 1__ (`add`, `status`, `rm`) :  
    __`$ git add index.html`__ - "Stage" a file (ready to be commited/uploaded)  
@@ -55,10 +55,10 @@
    in order to update the remote repository
 
 ## TO DO
-   * Add git commands related to "**Pull Requests**" (from a brach)
-   * Add users
-   * "__Fork__" a project
-   * ...
+   - [ ] Add git commands related to "**Pull Requests**" (from a brach)
+   - [ ] Add users
+   - [ ] `fork` a project
+   - [ ] :metal:
 
 ## Credits
    This great guy: Brad Traversy / [Traversy Media](https://www.youtube.com/user/TechGuyWeb/)  
