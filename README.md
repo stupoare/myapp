@@ -1,6 +1,7 @@
-# LEARN GIT CLI
-> Better late than never
+# LEARN GIT CLI  
+Better late than never
 
+___
 
 ## What I have done (and learned) :
 1. __`$ cd /Data/web/tests`__ - Go to a location on your computer
