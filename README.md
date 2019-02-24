@@ -62,4 +62,4 @@ ___
    - [ ] :metal:
 
 ## Credits
-   This great guy: Brad Traversy / [Traversy Media](https://www.youtube.com/user/TechGuyWeb/)  
+   This great guy: [Traversy Media](https://www.youtube.com/user/TechGuyWeb/)  
