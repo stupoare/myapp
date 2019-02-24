@@ -1,5 +1,5 @@
 # LEARN GIT CLI
-### Better late than never
+##### Better late than never
 
 ## What I have done (and learned) :
 1. `$ cd /Data/web/tests` - Go to a location on your computer
@@ -43,7 +43,7 @@
 
 12. **Must-know commands 3** :  
     `$ git remote add origin https://github.com/username/reponame.git` - Add all *myapp* local files to the remote repo with the name **reponame**.  
-    `$ git push -u origin master` - Will push the files and folders to master repo *reponame*
+    `$ git push -u origin master` - Will push the files and folders to master repo *reponame*  
     *Note: If is the first time you do this, Github will ask you for the github username and password*  
     
     After the first *push -u origin*, and so the origin is already defined, you only have to do:  
