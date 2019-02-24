@@ -27,12 +27,12 @@
 
 11. Must know commands 2 :
    `$ git commit -m 'Commit commentary goes here'` - Commit with a comment
-   `$ git branch myapp-branch`
-   While in this branch, all changes will be within this branch!
-   `$ git checkout master` - Will switch to master branch
-   `$ git merge myapp-branch`
-   Will merge this branch from master. If there are files in conflict (like README was changed while in myapp-branch) we'll see a message:
-   "Auto-merging README.md
-    CONFLICT (content): Merge conflict in README.md
-    Automatic merge failed; fix conflicts and then commit the result."
-    Do a `$ git add .` and a `$ git commit -m 'bla-bla'` to fix conflicts and run git commit...
+   `$ git branch myapp-branch`  
+   While in this branch, all changes will be within this branch!  
+   `$ git checkout master` - Will switch to master branch  
+   `$ git merge myapp-branch`  
+   Will merge this branch from master. If there are files in conflict (like README was changed while in myapp-branch) we'll see a message:  
+   "Auto-merging README.md  
+    CONFLICT (content): Merge conflict in README.md  
+    Automatic merge failed; fix conflicts and then commit the result."  
+    Do a `$ git add .` and a `$ git commit -m 'bla-bla'` to fix conflicts and run git commit...  
