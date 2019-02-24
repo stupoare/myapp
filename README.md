@@ -6,27 +6,27 @@
 2. `$ mkdir myapp` - Create a folder
 3. `$ cd myapp` - Go inside this new folder
 4. Create some files inside app folder :
-   `$ touch index.html`
-   `$ touch app.js`
-   `$ touch style.css`
+   `$ touch index.html`  
+   `$ touch app.js`  
+   `$ touch style.css`  
 
 5. `$ git init` - Create .git config directory
 6. `$ git --global user.name 'Sorin Paun'` - config name
 7. `$ git --global user.email 'stupoare@gmail.com'` - config email
 
 8. Must know commands 1 :
-   `$ git add index.html` - "Stage" a file (ready to be commited/uploaded)
-   `$ git status` - See the status of your files
-   `$ git rm --cached index.html` - To "unstage" a file
-   `$ git add *.html` - Stage all .html files
-   `$ git rm --cached *.html` - Unstage all .html files
+   `$ git add index.html` - "Stage" a file (ready to be commited/uploaded)  
+   `$ git status` - See the status of your files  
+   `$ git rm --cached index.html` - To "unstage" a file  
+   `$ git add *.html` - Stage all .html files  
+   `$ git rm --cached *.html` - Unstage all .html files  
    `$ git add .` - Stage ALL files
 9. If you change the content of a file while in "stage" area you have to add it again!
 
 10. `$ touch .gitignore` - Added a ".gitignore": this is where you put folders and files you want to ignore!
 
 11. Must know commands 2 :
-   `$ git commit -m 'Commit commentary goes here'` - Commit with a comment
+   `$ git commit -m 'Commit commentary goes here'` - Commit with a comment  
    `$ git branch myapp-branch`  
    While in this branch, all changes will be within this branch!  
    `$ git checkout master` - Will switch to master branch  
