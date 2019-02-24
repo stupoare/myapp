@@ -47,9 +47,9 @@
     `$ git push -u origin master` - Will push the files and folders to master repo *reponame*  
     *Note: If is the first time you do this, Github will ask you for the github username and password*  
     
-   After the first *push -u origin*, and so the origin is already defined, you only have to do:  
-    * `$ git add .`  
-    * `$ git commit -m "Bla Bla"`  
+13. After the first *push -u origin*, and so the origin is already defined, you only have to do:  
+    * `$ git add .`
+    * `$ git commit -m "Bla Bla"`
     * `$ git push`  
 
    in order to update the remote repository
