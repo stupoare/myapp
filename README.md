@@ -23,4 +23,6 @@
 10. `$ touch .gitignore` - Added a ".gitignore": this is where you put folders and files you want to ignore!
 11. Must know commands 2 :
    `$ git commit -m 'Commit commentary goes here'` - Commit with a comment
-   `$ git branch myapp-branch`
+   `$ git branch myapp-branch` - Creates a new branch with the specified name (but you are still in master branch!)
+   `$ git checkout myapp-branch` - Switch to an existing branch
+   `$ git checkout master` - Switch to master branch
