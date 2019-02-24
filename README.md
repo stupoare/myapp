@@ -20,3 +20,4 @@
    `$ git rm --cached *.html` - Unstage all .html files
    `$ git add .` - Stage ALL files
 9. If you change the content of a file while in "stage" area you have to add it again!
+10. `$ touch .gitignore` - Added a ".gitignore": this is where you put folders and files you want to ignore!
