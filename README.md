@@ -31,11 +31,11 @@
    `$ git commit -m 'The commit commentary goes here'` - Commit with a comment  
    `$ git branch myapp-branch` - Will create a new branch with the name **myapp-branch*"**  
    `$ git checkout myapp-branch` - Will switch to *myapp-branch* branch  
-   *Note: while in this branch, all changes will be within this branch !*  
-
+   *Note: while in this branch, all changes will be within this branch !*
+   
    `$ git checkout master` - Will switch back to master branch  
-   `$ git merge myapp-branch` - Will merge this branch from master.  
-
+   `$ git merge myapp-branch` - Will merge this branch from master.
+   
    If there are files in conflict (like README was changed while in myapp-branch) we'll see a message:  
    *Auto-merging README.md*  
    *CONFLICT (content): Merge conflict in README.md*    
