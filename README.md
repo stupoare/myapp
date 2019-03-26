@@ -11,7 +11,7 @@ ___
 4. Create some files inside app folder :  
    __`$ touch index.html`__  
    __`$ touch app.js`__  
-   __`$ touch style.css`__  
+   __`$ touch style.css`__
 
 5. __`$ git init`__ - Create .git config directory
 6. __`$ git --global user.name 'Your Name'`__ - Config name
