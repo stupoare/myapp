@@ -56,7 +56,7 @@ ___
    in order to update the remote repository
 
 ## TO DO
-   - [ ] Add git commands related to "**Pull Requests**" (from a brach)
+   - [ ] Add git commands related to "**Pull Requests**" (from a branch)
    - [ ] Add users
    - [ ] `fork` a project
    - [ ] :metal:
